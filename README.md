@@ -13,6 +13,6 @@ It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and
 
 ## Crash my couch
 
-* couch in Lisbon, near city center.
+* couch in London, near Chancery Lane.
 
 ## Have me crash your couch
