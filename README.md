@@ -16,3 +16,5 @@ It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and
 * couch in London, near Chancery Lane.
 
 ## Have me crash your couch
+
+I'm going to Puppetcamp and FOSDEM so would love to crash your couch if Ghent for 31 Jan to 1 Feb or Brussels for 2nd and 3rd, that would be ace.
